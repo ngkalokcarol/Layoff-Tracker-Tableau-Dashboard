@@ -1,9 +1,9 @@
 # Layoff-Tracker-Tableau-Dashboard
 
-Extracted Layoff data from Layoffs.fyi and built a Layoff Tracker to observe the trends by Tech companies. It is available on Tableau Public: https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Extracted Layoff data from [Layoffs.fyi](https://layoffs.fyi) and built a Layoff Tracker to observe the trends by Tech companies.
 
-Tools: Python, Tableau 
-Data Source: https://layoffs.fyi
+<i>Tools: Python, Tableau <br>
+Data Source: https://layoffs.fyi</i>
 
 The Dashbaord is available on Tableau Public: https://public.tableau.com/views/Layofftracker/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
